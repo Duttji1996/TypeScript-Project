@@ -12,3 +12,4 @@ const userSchema = joi.object({
 
 export default userSchema;
 
+console.log("Hi there !")
